@@ -1,8 +1,8 @@
 {
   "name": "risco-lan-bridge",
   "displayName": "Risco Lan Bridge",
-  "version": "0.10.6",
-  "description": "Risco Lan Bridge allows direct communication with most Risco control panels. It allows you to recover in real time the state of your system and to perform the arming/disarming functions or the inhibition of the detection zones.",
+  "version": "0.0.1",
+  "description": "a bridge between risco alaram system and node.js for information and control",
   "main": "index.js",
   "directories": {
     "doc": "doc",
@@ -18,10 +18,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TJForc/risco-lan-bridge.git"
+    "url": "git+https://github.com/zeev-mindali/risco-lan-bridge.git"
   },
   "bugs": {
-    "url": "https://github.com/TJForc/risco-lan-bridge/issues"
+    "url": "https://github.com/zeev-mindali/risco-lan-bridge.git/issues"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -39,8 +39,6 @@
     "prosysplus",
     "gtplus"
   ],
-  "author": "TJForc <tjforc@tutanota.com> (https://github.com/TJForc)",
-  "contributors": ["vanackej (https://github.com/vanackej)","Monofin (https://github.com/Monofin)"],
-  "license": "MIT",
-  "homepage": "https://github.com/TJForc/risco-lan-bridge#readme"
+  "author": "zeev mindali <mindalizeev@gmail.com> (https://github.com/zeev-mindali)",
+  "license": "MIT"
 }
