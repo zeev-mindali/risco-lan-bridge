@@ -1,8 +1,8 @@
 {
-  "name": "TouchWandRiscoBridge",
-  "displayName": "Touchwand risco Bridge",
+  "name": "touchwand-bridge",
+  "displayName": "touchwand Risco Bridge",
   "version": "0.1.0",
-  "description": "risco panel bridge",
+  "description": "touchwand bridge for risco devices",
   "main": "index.js",
   "directories": {
     "doc": "doc",
@@ -41,4 +41,5 @@
   ],
   "author": "zeev mindali <mindalizeev@gmail.com> (https://github.com/zeev-mindali)",
   "license": "MIT"
+
 }
