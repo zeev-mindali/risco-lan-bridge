@@ -1,10 +1,3 @@
-[![license badge](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/TJForc/risco-lan-bridge/blob/main/LICENSE)
-[![Package Version](https://shields.io/npm/v/risco-lan-bridge/latest)](https://www.npmjs.com/package/risco-lan-bridge)
-[![Node Version](https://shields.io/node/v/risco-lan-bridge)](https://www.npmjs.com/package/risco-lan-bridge)
-[![Maintenance badge](https://shields.io/badge/maintenance-yes-green.svg)](https://github.com/TJForc/risco-lan-bridge/)
-
-
-
 # risco-lan-bridge
 risco-lan-bridge is not intended to be used as is.
 This program is intended to be used as a "bridge" between your application and a Risco alarm Panel (can also work with Electronic Line products but this has not been tested).

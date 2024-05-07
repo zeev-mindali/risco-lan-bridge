@@ -1,7 +1,7 @@
 {
   "name": "touchwand-bridge",
   "displayName": "touchwand Risco Bridge",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "touchwand bridge for risco devices",
   "main": "index.js",
   "directories": {
