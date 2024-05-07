@@ -1,8 +1,8 @@
 {
-  "name": "risco-lan-bridge",
-  "displayName": "Risco Lan Bridge",
-  "version": "0.0.1",
-  "description": "a bridge between risco alaram system and node.js for information and control",
+  "name": "TouchWandRiscoBridge",
+  "displayName": "Touchwand risco Bridge",
+  "version": "0.1.0",
+  "description": "risco panel bridge",
   "main": "index.js",
   "directories": {
     "doc": "doc",
